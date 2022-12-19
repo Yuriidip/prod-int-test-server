@@ -1,1 +1,1 @@
-# prod-int-test-server
+test-server
